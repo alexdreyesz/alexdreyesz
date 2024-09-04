@@ -11,14 +11,14 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=alexdreyesz&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=alexdreyesz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexdreyesz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&custom_title=Coding%20Languages" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=alexdreyesz&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/92c7qp"  />
+<img align="right" height="150" src="https://i.imgflip.com/92c91x.gif"  />
 
 ###
 
@@ -60,5 +60,20 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/alexdreyesz/alexdreyesz/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexdreyesz&radius=16&theme=modern-lilac&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
