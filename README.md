@@ -2,7 +2,14 @@
 
 ###
 
-<img align="right" height="150" src="<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/bnl7xKaEXMLhI475je" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/zooberlin-eat-capybara-capybaras-bnl7xKaEXMLhI475je">via GIPHY</a></p>"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexdreyesz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexdreyesz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -25,10 +32,9 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/alexdreyesz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/channels/@alexdreyesz" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://discordapp.com/users/alexdreyesz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="alexdreyesz@gmail.com" target="_blank">
@@ -38,5 +44,11 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/alexdreyesz/alexdreyesz/output/snake.svg" alt="Snake animation" />
 
 ###
