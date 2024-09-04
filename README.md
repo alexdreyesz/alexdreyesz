@@ -1,8 +1,8 @@
 <!------------------------------------------------------------------ Visitors Amount Section ---------------------------------------------------------------------------->
 <!-- Visitor Container --> 
-<div align="center">
+<div align="right">
   <!-- Visitor Counter --> 
-  <img src="https://profile-counter.glitch.me/alexdreyesz/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=a277ff&style=plastic&label=PROFILE+VIEWS"/>
 </div>
 
 <!----------------------------------------------------------------- Greeting Title With Animation -----------------------------------------------------------------------> 
