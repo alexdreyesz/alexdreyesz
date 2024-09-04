@@ -118,18 +118,16 @@
 alt="gmail logo"  />
 </div>
 
-
-
-<!------------------------------------------------------------------ Graph Section --------------------------------------------------------------------------------------> 
-<!-- Showcase Title --> 
+<!------------------------------------------------------------------ Contributions Section ----------------------------------------------------------------------------->
+<!-- Contributions Title --> 
 <h2 align="center">⚡Contributions⚡</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexdreyesz&radius=16&theme=modern-lilac&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false" height="300" alt="activity-graph graph"  />
-</div>
 
-<!------------------------------------------------------------------ Snake Section --------------------------------------------------------------------------------------> 
-<br clear="both">
-
+<!-- Snake Graph -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/alexdreyesz/alexdreyesz/output/snake.svg" alt="Snake animation" />
+</div>
+
+<!-- Graph Chart --> 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexdreyesz&radius=16&theme=modern-lilac&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
