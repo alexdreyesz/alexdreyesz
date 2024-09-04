@@ -35,9 +35,6 @@ I am passionate about coding, open-source, and innovation. Always learning and e
 
  </div>
 
- <!-- Makaing Space With Break Lines --> 
-</br>
-
 
 <!------------------------------------------------------------------ Statistics Section ---------------------------------------------------------------------------------> 
 <!-- Statistics Title --> 
