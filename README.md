@@ -21,7 +21,7 @@
 
 </br>
 
-I'm a Computer Science Major From UCF. I am Passionate about coding, open-source, and innovation. Always learning and exploring new technologies. Starting my Studies in Machine Lerning & AI.
+I am passionate about coding, open-source, and innovation. Always learning and exploring new technologies. Currently started learning of Machine Learning & AI, with a keen interest in applying these technologies to solve real-world problems. I thrive in collaborative environments and enjoy contributing
 
 </br>
     
