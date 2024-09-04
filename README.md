@@ -57,7 +57,7 @@
 
 <!------------------------------------------------------------------ Showcase Section -----------------------------------------------------------------------------------> 
 <!-- Showcase Title --> 
-<h2 align="center">🖥️Showcase🖥️</h2>
+<h2 align="center">🖥️Skills & Contact🖥️</h2>
 
 <!-- GIF --> 
 <img align="right" height="150" src="https://i.imgflip.com/92c91x.gif"  /> 
@@ -106,12 +106,6 @@
 </div>
 
 
-<!------------------------------------------------------------------ Snake Section --------------------------------------------------------------------------------------> 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/alexdreyesz/alexdreyesz/output/snake.svg" alt="Snake animation" />
-
-
 <!------------------------------------------------------------------ Social Media Section -------------------------------------------------------------------------------> 
 
 <div align="left">
@@ -120,30 +114,22 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" 
+alt="gmail logo"  />
 </div>
 
 
-<!------------------------------------------------------------------ Graph Section --------------------------------------------------------------------------------------> 
 
+<!------------------------------------------------------------------ Graph Section --------------------------------------------------------------------------------------> 
+<!-- Showcase Title --> 
+<h2 align="center">⚡Contributions⚡</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexdreyesz&radius=16&theme=modern-lilac&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
 
+<!------------------------------------------------------------------ Snake Section --------------------------------------------------------------------------------------> 
+<br clear="both">
 
-<!------------------------------------------------------------------ Coding Languages Section ---------------------------------------------------------------------------->
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alexdreyesz/alexdreyesz/output/snake.svg" alt="Snake animation" />
 </div>
