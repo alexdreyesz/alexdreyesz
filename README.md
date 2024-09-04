@@ -66,7 +66,9 @@ I'm a Computer Science Major From UCF. I am Passionate about coding, open-source
 <h2 align="center">🖥️Skills & Contact🖥️</h2>
 
 <!-- GIF --> 
-<img align="right" height="150" src="https://i.imgflip.com/92c91x.gif"  /> 
+<!-- <img align="right" height="150" src="https://i.imgflip.com/92c91x.gif"  /> -->
+
+<img align="right" height="150" src="https://i.imgflip.com/92ctea.gif"  /> 
 
 <!-- Coding Languages Container --> 
 <div align="left">
