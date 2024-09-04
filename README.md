@@ -1,6 +1,6 @@
 <!------------------------------------------------------------------ Visitors Amount Section ---------------------------------------------------------------------------->
 <!-- Visitor Container --> 
-<div align="right">
+<div align="center">
   <!-- Visitor Counter --> 
   <img src="https://profile-counter.glitch.me/alexdreyesz/count.svg?"  />
 </div>
