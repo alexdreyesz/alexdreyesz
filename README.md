@@ -2,8 +2,9 @@
 <!-- Visitor Container --> 
 <div align="right">
   <!-- Visitor Counter --> 
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=a277ff&style=plastic&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=alexdreyesz&color=a277ff&style=plastic&label=PROFILE+VIEWS"/>
 </div>
+
 
 <!----------------------------------------------------------------- Greeting Title With Animation -----------------------------------------------------------------------> 
 <h1 align="center">
@@ -14,7 +15,7 @@
 <!------------------------------------------------------------------ About Me Section -----------------------------------------------------------------------------------> 
 <!-- About Me Title --> 
 <h2 align="center">🙎‍♂️About Me🙎‍♂️</h2>
-<h3 align="center">Hello There 👋! I'm a UCF international student, from Honduras</h3>
+<h3 align="center">Hello There 👋! I'm a Computer Science Major From UCF</h3>
 
 <div align="center">
     
@@ -24,7 +25,7 @@
 
 💬 Ask me about **My Journey At UCF**
 
-⚡ Fun fact **Capybaras are the chillest animals**
+⚡ Fun fact **I Am An International Student From Honduras**
 
  </div>
 
@@ -35,6 +36,9 @@
 <!------------------------------------------------------------------ Statistics Section ---------------------------------------------------------------------------------> 
 <!-- Statistics Title --> 
 <h2 align="center">⭐Statistics⭐</h2>
+
+ <!-- Makaing Space With Break Lines --> 
+</br>
 
 <!-- Statistics Container --> 
 <div align="center">
@@ -49,49 +53,55 @@
 </div>
 
 <!-- Makaing Space With Break Lines --> 
-</br></br>
+</br>
 
 <!------------------------------------------------------------------ Showcase Section -----------------------------------------------------------------------------------> 
+<!-- Showcase Title --> 
+<h2 align="center">🖥️Showcase🖥️</h2>
+
 <!-- GIF --> 
 <img align="right" height="150" src="https://i.imgflip.com/92c91x.gif"  /> 
 
 <!-- Coding Languages Container --> 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
 </div>
+
+<!-- Makaing Space With Break Lines --> 
+</br> </br>
 
 <!-- Social Media Container --> 
 <div align="left">
   <!-- Linkedin --> 
   <a href="www.linkedin.com/in/alexdreyesz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
   </a>
     
   <!-- Discord --> 
   <a href="https://discordapp.com/users/alexdreyesz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="discord logo"  />
   </a>
 
   <!-- Gmail --> 
   <a href="alexdreyesz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="gmail logo"  />
   </a>
 
   <!-- WhatsApp --> 
   <a href="(813) 510-0496" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="whatsapp logo"  />
   </a>
 </div>
 
