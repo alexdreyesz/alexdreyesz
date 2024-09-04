@@ -1,3 +1,10 @@
+<!------------------------------------------------------------------ Visitors Amount Section ---------------------------------------------------------------------------->
+<!-- Visitor Container --> 
+<div align="right">
+  <!-- Visitor Counter --> 
+  <img src="https://profile-counter.glitch.me/alexdreyesz/count.svg?"  />
+</div>
+
 <!----------------------------------------------------------------- Greeting Title With Animation -----------------------------------------------------------------------> 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=a277ff&vCenter=true&width=500&height=70&duration=3000&lines=Welcome+To+My+GitHub!+😄;+I'm+Alex+Reyes!;" />
@@ -129,11 +136,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
-
-<!------------------------------------------------------------------ Visitors Amout Section ---------------------------------------------------------------------------->
-<!-- Visitor Container --> 
-<div align="center">
-  <!-- Visitor Counter --> 
-  <img src="https://profile-counter.glitch.me/alexdreyesz/count.svg?"  />
 </div>
