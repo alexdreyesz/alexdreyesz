@@ -15,17 +15,23 @@
 <!------------------------------------------------------------------ About Me Section -----------------------------------------------------------------------------------> 
 <!-- About Me Title --> 
 <h2 align="center">🙎‍♂️About Me🙎‍♂️</h2>
-<h3 align="center">Hello There 👋! I'm a Computer Science Major From UCF</h3>
+<h3 align="center">Hello There 👋! I'm An International Student From Honduras</h3>
 
 <div align="center">
+
+</br>
+
+I'm a Computer Science Major From UCF. I am Passionate about coding, open-source, and innovation. Always learning and exploring new technologies. Starting my Studies in Machine Lerning & AI.
+
+</br>
     
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **A Connect 4 App**
  
- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+ 🌱 I’m currently learning **HTML, CSS, JavaScript, and React**
 
-💬 Ask me about **My Journey At UCF**
+💬 Ask me about **My Passion For Innovation And My Future Plans**
 
-⚡ Fun fact **I Am An International Student From Honduras**
+⚡ Fun fact **Capybaras are the largest rodents in the world, but they’re incredibly social and friendly!**
 
  </div>
 
@@ -64,18 +70,31 @@
 
 <!-- Coding Languages Container --> 
 <div align="left">
+  <!-- C Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
   <img width="12" />
+
+  <!-- C++ Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
   <img width="12" />
+
+  <!-- Java Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
   <img width="12" />
+
+  <!-- Python Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
   <img width="12" />
+
+  <!-- HTML Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
   <img width="12" />
+
+  <!-- CSS Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
   <img width="12" />
+
+  <!-- JavaScript Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
 </div>
 
