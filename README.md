@@ -1,17 +1,36 @@
 <!----------------------------------------------------------------- Greeting Title With Animation -----------------------------------------------------------------------> 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Welcome+To+My+GitHub!+😄;+I'm+Alex+Reyes!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=a277ff&vCenter=true&width=500&height=70&duration=3000&lines=Welcome+To+My+GitHub!+😄;+I'm+Alex+Reyes!;" />
 </h1>
 
 
 <!------------------------------------------------------------------ About Me Section -----------------------------------------------------------------------------------> 
-<h2 align="center">Hi 👋! My name is Alex Reyes and I'm a UCF international student, from Honduras</h2>
+<!-- About Me Title --> 
+<h2 align="center">🙎‍♂️About Me🙎‍♂️</h2>
+<h3 align="center">Hello There 👋! I'm a UCF international student, from Honduras</h3>
+
+<div align="center">
+    
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **HTML, CSS, JavaScript**
+
+💬 Ask me about **My Journey At UCF**
+
+⚡ Fun fact **Capybaras are the chillest animals**
+
+ </div>
+
+ <!-- Makaing Space With Break Lines --> 
+</br>
 
 
 <!------------------------------------------------------------------ Statistics Section ---------------------------------------------------------------------------------> 
+<!-- Statistics Title --> 
+<h2 align="center">⭐Statistics⭐</h2>
+
 <!-- Statistics Container --> 
 <div align="center">
-
 <!-- GitHub Graph --> 
 <img src="https://github-readme-stats.vercel.app/api?username=alexdreyesz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
 
@@ -22,10 +41,12 @@
 <img src="https://streak-stats.demolab.com?user=alexdreyesz&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
+<!-- Makaing Space With Break Lines --> 
+</br></br>
 
 <!------------------------------------------------------------------ Showcase Section -----------------------------------------------------------------------------------> 
 <!-- GIF --> 
-<img align="right" height="150" src="https://i.imgflip.com/92c91x.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/92c91x.gif"  /> 
 
 <!-- Coding Languages Container --> 
 <div align="left">
