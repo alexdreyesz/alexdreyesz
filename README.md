@@ -8,7 +8,7 @@
 
 <!----------------------------------------------------------------- Greeting Title With Animation -----------------------------------------------------------------------> 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=a277ff&vCenter=true&width=1000&height=70&duration=3000&lines=Welcome+To+My+GitHub!+😄;+My+Name+Is+Alex+D.+Reyes!;+I'm+Gonna+Be+King+Of+The+Developers👒;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=a277ff&vCenter=true&width=1000&height=70&duration=3000&lines=Welcome+To+My+GitHub!+😄;+My+Name+Is+Alex+D.+Reyes!;+I'm+Gonna+Be+King+Of+The+Developers!!!👒;" />
 </h1>
 
 <!--+My+Name+Is+Alex+D.+Reyes!;+I'm+Gonna+Be King+Of+The+Developers👒
