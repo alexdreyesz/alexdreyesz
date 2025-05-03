@@ -17,7 +17,7 @@
 <!------------------------------------------------------------------ About Me Section -----------------------------------------------------------------------------------> 
 <!-- About Me Title --> 
 <h2 align="center">🙎‍♂️About Me🙎‍♂️</h2>
-<h3 align="left">Hello There 👋! I'm A Computer Science Student At The University Of Central Florida</h3>
+<h3 align="center">Hello There 👋! I'm A Computer Science Student At The University Of Central Florida</h3>
 
 <div align="left">
 
