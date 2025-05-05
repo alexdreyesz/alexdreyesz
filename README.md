@@ -438,7 +438,7 @@
   <img width="50" />
 
   <!-- WhatsApp Logo -->
-  <a href="(813) 510-0496" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://wa.me/18135100496" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="45" alt="whatsapp logo"  />
   </a>
   <img width="50" />
