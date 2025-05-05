@@ -94,10 +94,6 @@
    <!-- PHP Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP logo"  />
   <img width="12" />
-
-  <!-- MySQL Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt=" logo"  />
-  <img width="12" />
 </div>
 
 <!-- Complementary Languages Container --> <!---------------------------------------------------------------------------------------------------------------------------------------------->
@@ -161,6 +157,10 @@
   
   <!-- React Router Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" height="45" alt="React Router logo" />
+  <img width="12" />
+
+   <!-- GSAP Router Logo -->
+  <img src="images/badges/frameworks/gsap1.png" height="45" alt="GSAP logo" />
   <img width="12" />
   
   <!-- Anaconda Logo -->
@@ -300,28 +300,37 @@
 <h4>AI & LLMS:</h4>
 <div align="left">
    <!-- Chatgpt Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" height="45" alt=" logo"  />
+  <img src="images/badges/ai-llm/chatgpt.svg" height="45" alt="Chatgpt logo"  />
   <img width="12" />
 
    <!-- Claude Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" height="45" alt=" logo"  />
+  <img src="images/badges/ai-llm/claude.svg" height="45" alt="Claude logo"  />
   <img width="12" />
 
    <!-- Copilot Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" height="45" alt=" logo"  />
+  <img src="images/badges/ai-llm/copilot.svg" height="45" alt="Copilot logo"  />
   <img width="12" />
 
    <!-- Deepseek Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" height="45" alt=" logo"  />
+  <img src="images/badges/ai-llm/deepseek.svg" height="45" alt="Deepseek logo"  />
   <img width="12" />
 
    <!-- Gemini Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" height="45" alt=" logo"  />
+  <img src="images/badges/ai-llm/google-gemini.svg" height="45" alt="Gemini logo"  />
   <img width="12" />
 
    <!-- Huggingface Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" height="45" alt=" logo"  />
+  <img src="images/badges/ai-llm/huggingface.svg" height="45" alt="Hugging Face logo"  />
   <img width="12" />
+</div>
+
+<!-- APIs Container --> <!---------------------------------------------------------------------------------------------------------------------------------------------->
+<h4>Professional:</h4>
+<div align="left">
+   <!-- Leaflet Logo -->
+  <img src="images/badges/apis/leaflet.png" height="45" alt="Slack logo" />
+  <img width="12" />
+  
 </div>
 
 <!-- Professional Container --> <!---------------------------------------------------------------------------------------------------------------------------------------------->
@@ -383,6 +392,13 @@
 
 <!-- Social Media Container --> 
 <div align="center">
+
+  <!-- Portfolio Website --> 
+  <a href="https://www.alexdreyesz.com/" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="images/logo/kingz.png"  height="45" alt="discord logo"  />
+  </a>
+  <img width="12" />
+  
   <!-- Linkedin Logo --> 
   <a href="https://www.linkedin.com/in/alexdreyesz" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="45" alt="linkedin logo"  />
