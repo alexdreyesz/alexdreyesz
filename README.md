@@ -395,7 +395,7 @@
 
   <!-- Portfolio Website --> 
   <a href="https://www.alexdreyesz.com/" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="images/logo/kingz.png"  height="45" alt="discord logo"  />
+    <img src="images/logo/kingz-white.png"  height="45" alt="discord logo"  />
   </a>
   <img width="12" />
   
