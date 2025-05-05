@@ -398,6 +398,9 @@
     <img src="images/logo/kingz.png"  height="45" alt="discord logo"  />
   </a>
   <img width="12" />
+
+  <img src="images/logo/kingz.png"  href="https://www.alexdreyesz.com/" target="_blank" height="45" alt="discord logo"  />
+  <img width="12" />
   
   <!-- Linkedin Logo --> 
   <a href="https://www.linkedin.com/in/alexdreyesz" target="_blank" style="text-decoration: none; color: inherit;">
