@@ -60,10 +60,6 @@
 <!-- Showcase Title --> 
 <h2 align="center">🖥️Skills & Contact🖥️</h2>
 
-<!-- GIF 
-<img align="right" height="150" src="https://i.imgflip.com/92c91x.gif"  />
-<!-- <img align="right" height="150" src="https://i.imgflip.com/92ctea.gif"  /> -->
-
 <!-- Coding Languages Container --> 
 <h4>Programming Languages:</h4>
 <div align="left">
@@ -164,7 +160,12 @@
 
 <br> <br> <!-- Makaing Space With Break Lines --> 
 
-
+<!-- GIF -->
+<div align="center">
+  <img height="150" src="https://i.imgflip.com/92c91x.gif" alt="gif1" />
+  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <img height="150" src="https://i.imgflip.com/92ctea.gif" alt="gif2" />
+</div>
 
 
 <br> <!-- Makaing Space With Break Lines --> 
