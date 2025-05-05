@@ -60,7 +60,7 @@
 <!-- Showcase Title --> 
 <h2 align="center">🖥️Skills & Contact🖥️</h2>
 
-<!-- Coding Languages Container --> 
+<!-- Coding Languages Container --> <!---------------------------------------------------------------------------------------------------------------------------------------------->
 <h4>Programming Languages:</h4>
 <div align="left">
   <!-- C Logo -->
@@ -100,7 +100,7 @@
   <img width="12" />
 </div>
 
-<!-- Complementary Languages Container --> 
+<!-- Complementary Languages Container --> <!---------------------------------------------------------------------------------------------------------------------------------------------->
 <h4>Complementary Languages:</h4>
 <div align="left">
    <!-- HTML Logo -->
@@ -120,7 +120,7 @@
   <img width="12" />
 </div>
 
-<!-- Frameworks Container --> 
+<!-- Frameworks Container --> <!---------------------------------------------------------------------------------------------------------------------------------------------->
 <h4>Frameworks:</h4>
 <div align="left">
   <!-- React Logo -->
@@ -144,7 +144,7 @@
   <img width="12" />
 </div>
 
-<!-- Libraries Container --> 
+<!-- Libraries Container --> <!---------------------------------------------------------------------------------------------------------------------------------------------->
 <h4>Libraries:</h4>
 <div align="left">
   <!-- Bootstrap Logo -->
@@ -192,35 +192,159 @@
   <img width="12" />
 </div>
 
-<!-- Development Tools Container --> 
+<!-- Development Tools Container --> <!---------------------------------------------------------------------------------------------------------------------------------------------->
 <h4>Development Tools:</h4>
-<div align="left">
-   <!-- ?? Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" height="45" alt=" logo"  />
+  <div align="left">
+    <!-- VSCode Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VSCode logo" />
+  <img width="12" />
+  
+  <!-- Eclipse Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="45" alt="Eclipse logo" />
+  <img width="12" />
+  
+  <!-- Git Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git logo" />
+  <img width="12" />
+  
+  <!-- GitHub Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub logo" />
+  <img width="12" />
+  
+  <!-- Jupyter Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="Jupyter logo" />
+  <img width="12" />
+  
+  <!-- Linux Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux logo" />
+  <img width="12" />
+  
+  <!-- Node.js Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js logo" />
+  <img width="12" />
+  
+  <!-- Nodemon Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemon/nodemon-original.svg" height="45" alt="Nodemon logo" />
+  <img width="12" />
+  
+  <!-- Postman Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45" alt="Postman logo" />
+  <img width="12" />
+  
+  <!-- Ubuntu Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="45" alt="Ubuntu logo" />
+  <img width="12" />
+  
+  <!-- Unity Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="45" alt="Unity logo" />
+  <img width="12" />
+  
+  <!-- Unreal Engine Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="45" alt="Unreal Engine logo" />
+  <img width="12" />
+  
+  <!-- Vite Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="45" alt="Vite logo" />
   <img width="12" />
 </div>
 
-<!-- Design Tools Container --> 
+<!-- Design Tools Container --> <!---------------------------------------------------------------------------------------------------------------------------------------------->
 <h4>Design Tools:</h4>
 <div align="left">
-   <!-- ?? Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" height="45" alt=" logo"  />
+   <!-- Figma Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="Figma logo" />
+  <img width="12" />
+  
+  <!-- Blender Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="45" alt="Blender logo" />
+  <img width="12" />
+  
+  <!-- Canva Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="Canva logo" />
+  <img width="12" />
+  
+  <!-- LaTeX Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="45" alt="LaTeX logo" />
+  <img width="12" />
+  
+  <!-- Photoshop Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="45" alt="Photoshop logo" />
   <img width="12" />
 </div>
 
-<!-- AI & LLMs Container --> 
+<!-- Databases Container --> <!---------------------------------------------------------------------------------------------------------------------------------------------->
 <h4>AI & LLMS:</h4>
 <div align="left">
-   <!-- ?? Logo -->
+    <!-- MariaDB Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="45" alt="MariaDB logo" />
+  <img width="12" />
+  
+  <!-- Apache Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="45" alt="Apache logo" />
+  <img width="12" />
+  
+  <!-- Azure Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" alt="Azure logo" />
+  <img width="12" />
+  
+  <!-- Azure SQL Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="45" alt="Azure SQL logo" />
+  <img width="12" />
+  
+  <!-- MongoDB Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB logo" />
+  <img width="12" />
+</div>
+
+<!-- AI & LLMs Container --> <!---------------------------------------------------------------------------------------------------------------------------------------------->
+<h4>AI & LLMS:</h4>
+<div align="left">
+   <!-- Chatgpt Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" height="45" alt=" logo"  />
+  <img width="12" />
+
+   <!-- Claude Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" height="45" alt=" logo"  />
+  <img width="12" />
+
+   <!-- Copilot Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" height="45" alt=" logo"  />
+  <img width="12" />
+
+   <!-- Deepseek Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" height="45" alt=" logo"  />
+  <img width="12" />
+
+   <!-- Gemini Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" height="45" alt=" logo"  />
+  <img width="12" />
+
+   <!-- Huggingface Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" height="45" alt=" logo"  />
   <img width="12" />
 </div>
 
-<!-- Professional Container --> 
+<!-- Professional Container --> <!---------------------------------------------------------------------------------------------------------------------------------------------->
 <h4>Professional:</h4>
 <div align="left">
-   <!-- ?? Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" height="45" alt=" logo"  />
+   <!-- Slack Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="45" alt="Slack logo" />
+  <img width="12" />
+  
+  <!-- Jira Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="45" alt="Jira logo" />
+  <img width="12" />
+  
+  <!-- Notion Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="45" alt="Notion logo" />
+  <img width="12" />
+  
+  <!-- Stack Overflow Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="45" alt="Stack Overflow logo" />
+  <img width="12" />
+
+   <!-- LinkedIn Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" alt="LinkedIn logo" />
   <img width="12" />
 </div>
 
@@ -253,7 +377,7 @@
 
 <!------------------------------------------------------------------ Contributions Section ----------------------------------------------------------------------------->
 <!-- Showcase Title --> 
-<h2 align="center">📞Skills & Contact📞</h2>
+<h2 align="center">📞Contact & Social📞</h2>
 
 <br> <!-- Makaing Space With Break Lines --> 
 
