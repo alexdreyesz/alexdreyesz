@@ -18,11 +18,11 @@
 
 <div align="left">
 
-  <br> <!-- Break Line -->
+  <br> <!-- Makaing Space With Break Lines --> 
   
   I am passionate about coding, web development & design, open-source, and innovation. Always learning and exploring new technologies. Currently started learning of Machine Learning & AI, with a keen interest in applying these technologies to solve real-world problems. I thrive in collaborative environments and enjoy contributing
   
-  </br>
+  </br> <!-- Makaing Space With Break Lines --> 
       
    🔭 I’m currently working with **U.S. Space Force** on **ORBIT: AI-Powered IT Automation & Security Solutions** 
    
@@ -34,13 +34,13 @@
 
  </div>
 
+<br> <!-- Makaing Space With Break Lines --> 
 
 <!------------------------------------------------------------------ Statistics Section ---------------------------------------------------------------------------------> 
 <!-- Statistics Title --> 
 <h2 align="center">⭐Statistics⭐</h2>
 
- <!-- Makaing Space With Break Lines --> 
-<br>
+<br> <!-- Makaing Space With Break Lines --> 
 
 <!-- Statistics Container --> 
 <div align="center">
@@ -54,8 +54,7 @@
   <img src="https://streak-stats.demolab.com?user=alexdreyesz&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-<!-- Makaing Space With Break Lines --> 
-<br>
+<br> <br> <!-- Makaing Space With Break Lines --> 
 
 <!------------------------------------------------------------------ Showcase Section -----------------------------------------------------------------------------------> 
 <!-- Showcase Title --> 
@@ -107,8 +106,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="45" alt="python logo"  />
   <img width="12" />
 
-<!-- Makaing Space With Break Lines --> 
-<br> <br>
+<br> <br> <!-- Makaing Space With Break Lines --> 
 
 <!-- Social Media Container --> 
 <div align="left">
@@ -149,8 +147,7 @@
   <img width="12" />
 </div>
 
-<!-- Makaing Space With Break Lines --> 
-<br>
+<br> <br> <!-- Makaing Space With Break Lines --> 
 
 <!------------------------------------------------------------------ Contributions Section ----------------------------------------------------------------------------->
 <!-- Contributions Title --> 
