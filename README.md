@@ -390,7 +390,7 @@
   <img width="12" />
 
   <!-- Discord Logo --> 
-  <a href="https://discordapp.com/users/alexdreyesz/" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://www.discordapp.com/users/alexdreyesz/" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"  height="45" alt="discord logo"  />
   </a>
   <img width="12" />
@@ -414,7 +414,7 @@
   <img width="12" />
 
   <!-- Gmail Logo -->
-  <a href="alexdreyesz@gmail.com" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="mailto:alexdreyesz@gmail.com" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"  height="45" alt="gmail logo"  />
   </a>
   <img width="12" />
