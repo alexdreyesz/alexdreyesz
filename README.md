@@ -60,14 +60,14 @@
 
 <br> <!-- Makaing Space With Break Lines --> 
 
-<h4 align="center" style="color: white">www.alexdreyesz.com</h2>
+<h4 align="center" style="color: white">Check My Website Here!</h2>
 
 <div align="Center">
   <img src="images/logo/kingz-white.png"  height="45" alt="discord logo"  />
   <img width="100" />
   
   <a href="https://www.alexdreyesz.com/" target="_blank" style="text-decoration: none; color: inherit;">
-    Check My Website Here!
+    www.alexdreyesz.com
   </a>
 
   <img width="100" />
