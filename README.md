@@ -291,7 +291,7 @@
 </div>
 
 <!-- Databases Container --> <!---------------------------------------------------------------------------------------------------------------------------------------------->
-<h4>AI & LLMS:</h4>
+<h4>Databases:</h4>
 <div align="left">
     <!-- MariaDB Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="45" alt="MariaDB logo" />
@@ -343,10 +343,18 @@
 </div>
 
 <!-- APIs Container --> <!---------------------------------------------------------------------------------------------------------------------------------------------->
-<h4>Professional:</h4>
+<h4>APIs:</h4>
 <div align="left">
+   <!-- OpenAi Logo -->
+  <img src="images/badges/apis/openai-white.png" height="45" alt="OpenAI logo" />
+  <img width="12" />
+  
    <!-- Leaflet Logo -->
-  <img src="images/badges/apis/leaflet.png" height="45" alt="Slack logo" />
+  <img src="images/badges/apis/leaflet.png" height="45" alt="Leaflet logo" />
+  <img width="12" />
+
+   <!-- Mapbox Logo -->
+  <img src="images/badges/apis/mapbox.png" height="45" alt="Mapbox logo" />
   <img width="12" />
   
 </div>
