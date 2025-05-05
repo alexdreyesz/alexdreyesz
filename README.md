@@ -397,41 +397,41 @@
   <a href="https://www.alexdreyesz.com/" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="images/logo/kingz-white.png"  height="45" alt="discord logo"  />
   </a>
-  <img width="12" />
+  <img width="25" />
   
   <!-- Linkedin Logo --> 
   <a href="https://www.linkedin.com/in/alexdreyesz" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="45" alt="linkedin logo"  />
   </a>
-  <img width="12" />
+  <img width="25" />
 
   <!-- Discord Logo --> 
   <a href="https://www.discordapp.com/users/alexdreyesz/" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"  height="45" alt="discord logo"  />
   </a>
-  <img width="12" />
+  <img width="25" />
 
   <!-- instagram Logo --> 
   <a href="https://www.instagram.com/alexdreyesz" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"  height="45" alt="instagram logo"  />
   </a>
-  <img width="12" />
+  <img width="25" />
 
   <!-- Twitter Logo -->
   <a href="https://www.twitter.com/alexdreyesz" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"  height="45" alt="twitter logo"  />
   </a>
-  <img width="12" />
+  <img width="25" />
 
   <!-- WhatsApp Logo -->
   <a href="(813) 510-0496" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="45" alt="whatsapp logo"  />
   </a>
-  <img width="12" />
+  <img width="25" />
 
   <!-- Gmail Logo -->
   <a href="mailto:alexdreyesz@gmail.com" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"  height="45" alt="gmail logo"  />
   </a>
-  <img width="12" />
+  <img width="25" />
 </div>
