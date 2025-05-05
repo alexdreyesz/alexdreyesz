@@ -60,7 +60,7 @@
 
 <br> <!-- Makaing Space With Break Lines --> 
 
-<h4 align="center" style="color: white">Check My Website Here!</h2>
+<h4 align="center" style="color: white">Check My Portfolio Website Here!</h2>
 
 <div align="Center">
   <img src="images/logo/kingz-white.png"  height="45" alt="discord logo"  />
