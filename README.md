@@ -34,7 +34,6 @@
 
  </div>
 
-<br> <!-- Makaing Space With Break Lines --> 
 
 <!------------------------------------------------------------------ Statistics Section ---------------------------------------------------------------------------------> 
 <!-- Statistics Title --> 
@@ -54,20 +53,30 @@
   <img src="https://streak-stats.demolab.com?user=alexdreyesz&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-<br> <br> <!-- Makaing Space With Break Lines --> 
+
+<br> <!-- Makaing Space With Break Lines --> 
 
 <!------------------------------------------------------------------ Showcase Section -----------------------------------------------------------------------------------> 
 <!-- Showcase Title --> 
 <h2 align="center">🖥️Skills & Contact🖥️</h2>
 
-<!-- GIF --> 
+<!-- GIF 
 <img align="right" height="150" src="https://i.imgflip.com/92c91x.gif"  />
 <!-- <img align="right" height="150" src="https://i.imgflip.com/92ctea.gif"  /> -->
 
 <!-- Coding Languages Container --> 
+<h4>Programming Languages:</h4>
 <div align="left">
-  <!-- React Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="javascript logo"  />
+  <!-- C Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
+  <img width="12" />
+
+  <!-- C++ Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
+  <img width="12" />
+
+   <!-- C# Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="c# logo"  />
   <img width="12" />
 
   <!-- HTML Logo -->
@@ -85,14 +94,6 @@
   <!-- TypeScript Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="javascript logo"  />
   <img width="12" />
-  
-  <!-- C Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
-  <img width="12" />
-
-  <!-- C++ Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
-  <img width="12" />
 
   <!-- Java Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
@@ -102,14 +103,96 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
   <img width="12" />
 
-   <!-- Python Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="45" alt="python logo"  />
+   <!-- PHP Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP logo"  />
   <img width="12" />
+
+  <!-- MySQL Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt=" logo"  />
+  <img width="12" />
+</div>
+
+<!-- Coding Languages Container --> 
+<h4>Frameworks:</h4>
+<div align="left">
+  <!-- React Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="javascript logo"  />
+  <img width="12" />
+
+   <!-- Three.js Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="45"  alt="Three.js logo"  />
+  <img width="12" />
+</div>
+
+<h4>Libraries:</h4>
+<div align="left">
+   <!-- ?? Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" height="45" alt=" logo"  />
+  <img width="12" />
+</div>
+
+<h4>Development Tools:</h4>
+<div align="left">
+   <!-- ?? Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" height="45" alt=" logo"  />
+  <img width="12" />
+</div>
+
+<h4>Design Tools:</h4>
+<div align="left">
+   <!-- ?? Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" height="45" alt=" logo"  />
+  <img width="12" />
+</div>
+
+<h4>AI & LLMS:</h4>
+<div align="left">
+   <!-- ?? Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" height="45" alt=" logo"  />
+  <img width="12" />
+</div>
+
+<h4>Professional:</h4>
+<div align="left">
+   <!-- ?? Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" height="45" alt=" logo"  />
+  <img width="12" />
+</div>
+
+
+
 
 <br> <br> <!-- Makaing Space With Break Lines --> 
 
+
+
+
+<br> <!-- Makaing Space With Break Lines --> 
+
+<!------------------------------------------------------------------ Contributions Section ----------------------------------------------------------------------------->
+<!-- Contributions Title --> 
+<h2 align="center">⚡Contributions⚡</h2>
+
+<!-- Snake Graph -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alexdreyesz/alexdreyesz/output/snake.svg" alt="Snake animation" />
+</div>
+
+<!-- Graph Chart --> 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexdreyesz&radius=16&theme=modern-lilac&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false" height="300" alt="activity-graph graph"  />
+</div>
+
+<br> <br> <!-- Makaing Space With Break Lines --> 
+
+<!------------------------------------------------------------------ Contributions Section ----------------------------------------------------------------------------->
+<!-- Showcase Title --> 
+<h2 align="center">📞Skills & Contact📞</h2>
+
+<br> <!-- Makaing Space With Break Lines --> 
+
 <!-- Social Media Container --> 
-<div align="left">
+<div align="center">
   <!-- Linkedin Logo --> 
   <a href="https://www.linkedin.com/in/alexdreyesz" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="45" alt="linkedin logo"  />
@@ -145,20 +228,4 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"  height="45" alt="gmail logo"  />
   </a>
   <img width="12" />
-</div>
-
-<br> <br> <!-- Makaing Space With Break Lines --> 
-
-<!------------------------------------------------------------------ Contributions Section ----------------------------------------------------------------------------->
-<!-- Contributions Title --> 
-<h2 align="center">⚡Contributions⚡</h2>
-
-<!-- Snake Graph -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alexdreyesz/alexdreyesz/output/snake.svg" alt="Snake animation" />
-</div>
-
-<!-- Graph Chart --> 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexdreyesz&radius=16&theme=modern-lilac&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
