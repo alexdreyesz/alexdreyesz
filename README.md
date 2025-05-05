@@ -11,9 +11,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=a277ff&vCenter=true&width=1000&height=70&duration=3000&lines=Welcome+To+My+GitHub!+😄;+My+Name+Is+Alex+D.+Reyes!;+I'm+Gonna+Be+King+Of+The+Software+Engineers!!!👒;" />
 </h1>
 
-<!--+My+Name+Is+Alex+D.+Reyes!;+I'm+Gonna+Be King+Of+The+Developers👒
-
-
 <!------------------------------------------------------------------ About Me Section -----------------------------------------------------------------------------------> 
 <!-- About Me Title --> 
 <h2 align="center">🙎‍♂️About Me🙎‍♂️</h2>
@@ -21,19 +18,19 @@
 
 <div align="left">
 
-</br>
-
-I am passionate about coding, web development & design, open-source, and innovation. Always learning and exploring new technologies. Currently started learning of Machine Learning & AI, with a keen interest in applying these technologies to solve real-world problems. I thrive in collaborative environments and enjoy contributing
-
-</br>
-    
- 🔭 I’m currently working with **U.S. Space Force** on **ORBIT: AI-Powered IT Automation & Security Solutions** 
- 
- 🌱 I’m currently learning **Angular, Mapbox, and Three.js**
-
-💬 Ask me about **My Passion For Innovation And My Future Plans**
-
-⚡ Fun fact **Capybaras are the largest rodents in the world, but they’re incredibly social and friendly!**
+  <br> <!-- Break Line -->
+  
+  I am passionate about coding, web development & design, open-source, and innovation. Always learning and exploring new technologies. Currently started learning of Machine Learning & AI, with a keen interest in applying these technologies to solve real-world problems. I thrive in collaborative environments and enjoy contributing
+  
+  </br>
+      
+   🔭 I’m currently working with **U.S. Space Force** on **ORBIT: AI-Powered IT Automation & Security Solutions** 
+   
+   🌱 I’m currently learning **Angular, Mapbox, and Three.js**
+  
+  💬 Ask me about **My Passion For Innovation And My Future Plans**
+  
+  ⚡ Fun fact **Capybaras are the largest rodents in the world, but they’re incredibly social and friendly!**
 
  </div>
 
@@ -43,22 +40,22 @@ I am passionate about coding, web development & design, open-source, and innovat
 <h2 align="center">⭐Statistics⭐</h2>
 
  <!-- Makaing Space With Break Lines --> 
-</br>
+<br>
 
 <!-- Statistics Container --> 
 <div align="center">
-<!-- GitHub Graph --> 
-<img src="https://github-readme-stats.vercel.app/api?username=alexdreyesz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
-
-<!-- Coding Languages Graph --> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexdreyesz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&custom_title=Coding%20Languages" height="150" alt="languages graph"  />
-
-<!-- Streak Graph --> 
-<img src="https://streak-stats.demolab.com?user=alexdreyesz&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <!-- GitHub Graph --> 
+  <img src="https://github-readme-stats.vercel.app/api?username=alexdreyesz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
+  
+  <!-- Coding Languages Graph --> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexdreyesz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&custom_title=Coding%20Languages" height="150" alt="languages graph"  />
+  
+  <!-- Streak Graph --> 
+  <img src="https://streak-stats.demolab.com?user=alexdreyesz&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 <!-- Makaing Space With Break Lines --> 
-</br>
+<br>
 
 <!------------------------------------------------------------------ Showcase Section -----------------------------------------------------------------------------------> 
 <!-- Showcase Title --> 
@@ -111,7 +108,7 @@ I am passionate about coding, web development & design, open-source, and innovat
   <img width="12" />
 
 <!-- Makaing Space With Break Lines --> 
-</br> </br>
+<br> <br>
 
 <!-- Social Media Container --> 
 <div align="left">
@@ -153,7 +150,7 @@ I am passionate about coding, web development & design, open-source, and innovat
 </div>
 
 <!-- Makaing Space With Break Lines --> 
-</br>
+<br>
 
 <!------------------------------------------------------------------ Contributions Section ----------------------------------------------------------------------------->
 <!-- Contributions Title --> 
