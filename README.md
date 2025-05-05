@@ -26,7 +26,7 @@
       
    🔭 I’m currently working with **U.S. Space Force** on **ORBIT: AI-Powered IT Automation & Security Solutions** 
    
-   🌱 I’m currently learning **Angular, Mapbox, and Three.js**
+   🌱 I’m currently learning **LLMs, Generative AI, and RAG pipelines using Hugging Face, as well as Angular, Mapbox, and Three.js.**
   
   💬 Ask me about **My Passion For Innovation And My Future Plans**
   
