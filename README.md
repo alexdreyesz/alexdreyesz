@@ -75,14 +75,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="c# logo"  />
   <img width="12" />
 
-  <!-- HTML Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
-  <img width="12" />
-
-  <!-- CSS Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
-  <img width="12" />
-
   <!-- JavaScript Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
   <img width="12" />
@@ -108,25 +100,99 @@
   <img width="12" />
 </div>
 
-<!-- Coding Languages Container --> 
+<!-- Complementary Languages Container --> 
+<h4>Complementary Languages:</h4>
+<div align="left">
+   <!-- HTML Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img width="12" />
+
+  <!-- CSS Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
+  <img width="12" />
+
+   <!-- MYSQL Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
+  <img width="12" />
+
+  <!-- JSON Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="45" alt="json logo"  />
+  <img width="12" />
+</div>
+
+<!-- Frameworks Container --> 
 <h4>Frameworks:</h4>
 <div align="left">
   <!-- React Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="javascript logo"  />
   <img width="12" />
 
+  <!-- Angular Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="45" alt="Angular logo"  />
+  <img width="12" />
+
+  <!-- Tailwind CSS Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="Tailwind css logo"  />
+  <img width="12" />
+
    <!-- Three.js Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="45"  alt="Three.js logo"  />
   <img width="12" />
-</div>
 
-<h4>Libraries:</h4>
-<div align="left">
-   <!-- ?? Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" height="45" alt=" logo"  />
+  <!-- Express Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="Express logo"  />
   <img width="12" />
 </div>
 
+<!-- Libraries Container --> 
+<h4>Libraries:</h4>
+<div align="left">
+  <!-- Bootstrap Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="Bootstrap logo" />
+  <img width="12" />
+  
+  <!-- React Bootstrap Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactbootstrap/reactbootstrap-original.svg" height="45" alt="React Bootstrap logo" />
+  <img width="12" />
+  
+  <!-- React Navigation Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnavigation/reactnavigation-original.svg" height="45" alt="React Navigation logo" />
+  <img width="12" />
+  
+  <!-- React Router Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" height="45" alt="React Router logo" />
+  <img width="12" />
+  
+  <!-- Anaconda Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="45" alt="Anaconda logo" />
+  <img width="12" />
+  
+  <!-- MATLAB Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="45" alt="MATLAB logo" />
+  <img width="12" />
+  
+  <!-- Matplotlib Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45" alt="Matplotlib logo" />
+  <img width="12" />
+  
+  <!-- Pandas Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas logo" />
+  <img width="12" />
+  
+  <!-- NumPy Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy logo" />
+  <img width="12" />
+  
+  <!-- PyTorch Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45" alt="PyTorch logo" />
+  <img width="12" />
+  
+  <!-- NPM Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" alt="NPM logo" />
+  <img width="12" />
+</div>
+
+<!-- Development Tools Container --> 
 <h4>Development Tools:</h4>
 <div align="left">
    <!-- ?? Logo -->
@@ -134,6 +200,7 @@
   <img width="12" />
 </div>
 
+<!-- Design Tools Container --> 
 <h4>Design Tools:</h4>
 <div align="left">
    <!-- ?? Logo -->
@@ -141,6 +208,7 @@
   <img width="12" />
 </div>
 
+<!-- AI & LLMs Container --> 
 <h4>AI & LLMS:</h4>
 <div align="left">
    <!-- ?? Logo -->
@@ -148,15 +216,13 @@
   <img width="12" />
 </div>
 
+<!-- Professional Container --> 
 <h4>Professional:</h4>
 <div align="left">
    <!-- ?? Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" height="45" alt=" logo"  />
   <img width="12" />
 </div>
-
-
-
 
 <br> <br> <!-- Makaing Space With Break Lines --> 
 
@@ -166,7 +232,6 @@
   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
   <img height="150" src="https://i.imgflip.com/92ctea.gif" alt="gif2" />
 </div>
-
 
 <br> <!-- Makaing Space With Break Lines --> 
 
