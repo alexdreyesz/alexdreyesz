@@ -454,7 +454,7 @@
 
 <!------------------------------------------------------------------ Contributions Section ----------------------------------------------------------------------------->
 <!-- Contributions Title --> 
-<h2 align="center">⚡Contributions⚡</h2>
+<h2 align="center">⚡Contributions.⚡</h2>
 
 <!-- Snake Graph -->
 <div align="center">
