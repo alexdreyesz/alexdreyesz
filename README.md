@@ -44,12 +44,16 @@
 <div align="center">
   <!-- GitHub Graph --> 
   <img src="https://github-readme-stats.vercel.app/api?username=alexdreyesz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
-  
-  <!-- Coding Languages Graph --> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexdreyesz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&custom_title=Coding%20Languages" height="150" alt="languages graph"  />
-  
+
+  <img width="35" />
+
   <!-- Streak Graph --> 
   <img src="https://streak-stats.demolab.com?user=alexdreyesz&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+
+  <br> <!-- Makaing Space With Break Lines --> 
+  
+  <!-- Coding Languages Graph --> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexdreyesz&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=5&theme=aura&hide_border=false&custom_title=Coding%20Languages" height="150" alt="languages graph"  />
 </div>
 
 
@@ -389,9 +393,9 @@
 
 <!-- GIF -->
 <div align="center">
-  <img height="150" src="https://i.imgflip.com/92c91x.gif" alt="gif1" />
+  <img width="270" height="270" src="https://i.imgflip.com/92c91x.gif" alt="gif1" />
   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-  <img height="150" src="https://i.imgflip.com/92ctea.gif" alt="gif2" />
+  <img width="150" height="150" src="https://i.imgflip.com/92ctea.gif" alt="gif2" />
 </div>
 
 <br> <!-- Makaing Space With Break Lines --> 
@@ -461,9 +465,11 @@
   <img src="https://raw.githubusercontent.com/alexdreyesz/alexdreyesz/output/snake.svg" alt="Snake animation" />
 </div>
 
+<br> <!-- Makaing Space With Break Lines --> 
+
 <!-- Graph Chart --> 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexdreyesz&radius=16&theme=modern-lilac&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexdreyesz&radius=16&theme=modern-lilac&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false" widht="300" height="300" alt="activity-graph graph"  />
 </div>
 
 <br> <br> <!-- Makaing Space With Break Lines --> 
