@@ -66,13 +66,13 @@
 
 <div align="Center">
   <img src="images/logo/kingz-white.png"  width="45" height="45" alt="discord logo"  />
-  <img width="100" height="100" />
+  <img src="images/empty.png" width="100" height="100" />
   
   <a href="https://www.alexdreyesz.com/" target="_blank" style="text-decoration: none; color: inherit;">
     www.alexdreyesz.com
   </a>
 
-  <img width="100" height="100" />
+  <img src="images/empty.png" width="100" height="100" />
   <img src="images/logo/kingz-white.png" width="45"  height="45" alt="discord logo"  />  
 </div>
 
@@ -87,35 +87,35 @@
 <div align="left">
   <!-- C Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="c logo"  />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 
   <!-- C++ Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="cplusplus logo"  />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 
    <!-- C# Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="c# logo"  />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 
   <!-- JavaScript Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="javascript logo"  />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 
   <!-- TypeScript Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="javascript logo"  />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 
   <!-- Java Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="java logo"  />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 
   <!-- Python Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="python logo"  />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 
    <!-- PHP Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP logo"  />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 </div>
 
 <!-- Complementary Languages Container --> <!---------------------------------------------------------------------------------------------------------------------------------------------->
@@ -123,19 +123,19 @@
 <div align="left">
    <!-- HTML Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="html5 logo"  />
-  <img width="12" height="12" >
+  <img src="images/empty.png" width="12" height="12" >
 
   <!-- CSS Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="css3 logo"  />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 
    <!-- MYSQL Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="mysql logo"  />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 
   <!-- JSON Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="45" height="45" alt="json logo"  />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 </div>
 
 <!-- Frameworks Container --> <!---------------------------------------------------------------------------------------------------------------------------------------------->
@@ -143,23 +143,23 @@
 <div align="left">
   <!-- React Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="javascript logo"  />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 
   <!-- Angular Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="45" height="45" alt="Angular logo"  />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 
   <!-- Tailwind CSS Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind css logo"  />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 
    <!-- Three.js Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="45" height="45"  alt="Three.js logo"  />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 
   <!-- Express Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express logo"  />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 </div>
 
 <!-- Libraries Container --> <!---------------------------------------------------------------------------------------------------------------------------------------------->
@@ -167,51 +167,51 @@
 <div align="left">
   <!-- Bootstrap Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- React Bootstrap Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactbootstrap/reactbootstrap-original.svg" width="45" height="45" alt="React Bootstrap logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- React Navigation Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnavigation/reactnavigation-original.svg" width="45" height="45" alt="React Navigation logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- React Router Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" width="45" height="45" alt="React Router logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 
    <!-- GSAP Router Logo -->
   <img src="images/badges/frameworks/gsap1.png" width="45" height="45" alt="GSAP logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- Anaconda Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45" height="45" alt="Anaconda logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- MATLAB Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" height="45" alt="MATLAB logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- Matplotlib Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png"  width="12" height="12" />
   
   <!-- Pandas Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- NumPy Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- PyTorch Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- NPM Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" height="45" alt="NPM logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 </div>
 
 <!-- Development Tools Container --> <!---------------------------------------------------------------------------------------------------------------------------------------------->
@@ -219,55 +219,55 @@
   <div align="left">
     <!-- VSCode Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VSCode logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- Eclipse Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="45" height="45" alt="Eclipse logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- Git Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- GitHub Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- Jupyter Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- Linux Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- Node.js Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- Nodemon Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemon/nodemon-original.svg" width="45" height="45" alt="Nodemon logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- Postman Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- Ubuntu Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="45" height="45" alt="Ubuntu logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- Unity Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45" height="45" alt="Unity logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- Unreal Engine Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="45" height="45" alt="Unreal Engine logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- Vite Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45" height="45" alt="Vite logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 </div>
 
 <!-- Design Tools Container --> <!---------------------------------------------------------------------------------------------------------------------------------------------->
@@ -275,23 +275,23 @@
 <div align="left">
    <!-- Figma Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- Blender Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="45" height="45" alt="Blender logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- Canva Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" height="45" alt="Canva logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- LaTeX Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="45" height="45" alt="LaTeX logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- Photoshop Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" height="45" alt="Photoshop logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 </div>
 
 <!-- Databases Container --> <!---------------------------------------------------------------------------------------------------------------------------------------------->
@@ -299,23 +299,23 @@
 <div align="left">
     <!-- MariaDB Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="45" height="45" alt="MariaDB logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- Apache Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45" height="45" alt="Apache logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- Azure Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" alt="Azure logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- Azure SQL Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="45" height="45" alt="Azure SQL logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- MongoDB Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 </div>
 
 <!-- AI & LLMs Container --> <!---------------------------------------------------------------------------------------------------------------------------------------------->
@@ -323,27 +323,27 @@
 <div align="left">
    <!-- Chatgpt Logo -->
   <img src="images/badges/ai-llm/chatgpt.svg" width="45" height="45" alt="Chatgpt logo"  />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 
    <!-- Claude Logo -->
   <img src="images/badges/ai-llm/claude.svg" width="45" height="45" alt="Claude logo"  />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 
    <!-- Copilot Logo -->
   <img src="images/badges/ai-llm/copilot.svg" width="45" height="45" alt="Copilot logo"  />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 
    <!-- Deepseek Logo -->
   <img src="images/badges/ai-llm/deepseek.svg" width="45" height="45" alt="Deepseek logo"  />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 
    <!-- Gemini Logo -->
   <img src="images/badges/ai-llm/google-gemini.svg" width="45" height="45" alt="Gemini logo"  />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 
    <!-- Huggingface Logo -->
   <img src="images/badges/ai-llm/huggingface.svg" width="45" height="45" alt="Hugging Face logo"  />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 </div>
 
 <!-- APIs Container --> <!---------------------------------------------------------------------------------------------------------------------------------------------->
@@ -351,15 +351,15 @@
 <div align="left">
    <!-- OpenAi Logo -->
   <img src="images/badges/apis/openai-white.png" width="45" height="45" alt="OpenAI logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
    <!-- Leaflet Logo -->
   <img src="images/badges/apis/leaflet.png" width="45" height="45" alt="Leaflet logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 
    <!-- Mapbox Logo -->
   <img src="images/badges/apis/mapbox.png" width="45" height="45" alt="Mapbox logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
 </div>
 
@@ -368,23 +368,23 @@
 <div align="left">
    <!-- Slack Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="45" height="45" alt="Slack logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- Jira Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45" height="45" alt="Jira logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- Notion Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="45" height="45" alt="Notion logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
   
   <!-- Stack Overflow Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="45" height="45" alt="Stack Overflow logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 
    <!-- LinkedIn Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn logo" />
-  <img width="12" height="12" />
+  <img src="images/empty.png" width="12" height="12" />
 </div>
 
 <br> <br> <!-- Makaing Space With Break Lines --> 
@@ -407,49 +407,49 @@
 <!-- Social Media Container --> 
 <div align="center">
 
-  <img width="50" height="50" />
+  <img src="images/empty.png" width="50" height="50" />
 
   <!-- Portfolio Website --> 
   <a href="https://www.alexdreyesz.com/" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="images/logo/kingz-white.png" width="45"  height="45" alt="discord logo"  />
   </a>
-  <img width="50" height="50" />
+  <img src="images/empty.png" width="50" height="50" />
   
   <!-- Linkedin Logo --> 
   <a href="https://www.linkedin.com/in/alexdreyesz" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="45" alt="linkedin logo"  />
   </a>
-  <img width="50" height="50" />
+  <img src="images/empty.png" width="50" height="50" />
 
   <!-- Discord Logo --> 
   <a href="https://www.discordapp.com/users/alexdreyesz/" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"  width="45" height="45" alt="discord logo"  />
   </a>
-  <img width="50" height="50" />
+  <img src="images/empty.png" width="50" height="50" />
 
   <!-- instagram Logo --> 
   <a href="https://www.instagram.com/alexdreyesz" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"  width="45" height="45" alt="instagram logo"  />
   </a>
-  <img width="50" height="50" />
+  <img src="images/empty.png" width="50" height="50" />
 
   <!-- Twitter Logo -->
   <a href="https://www.twitter.com/alexdreyesz" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"  width="45" height="45" alt="twitter logo"  />
   </a>
-  <img width="50" height="50" />
+  <img src="images/empty.png" width="50" height="50" />
 
   <!-- WhatsApp Logo -->
   <a href="https://wa.me/18135100496" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" height="45" alt="whatsapp logo"  />
   </a>
-  <img width="50" height="50" />
+  <img src="images/empty.png" width="50" height="50" />
 
   <!-- Gmail Logo -->
   <a href="mailto:alexdreyesz@gmail.com" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"  width="45" height="45" alt="gmail logo"  />
   </a>
-  <img width="50" height="50" />
+  <img src="images/empty.png" width="50" height="50" />
 </div>
 
 <br> <!-- Makaing Space With Break Lines --> 
