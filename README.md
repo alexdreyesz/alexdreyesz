@@ -48,7 +48,7 @@
   <img src="images/empty.png" width="24" height="24" />
   
   <!-- Streak Graph --> 
-  <img src="https://streak-stats.demolab.com?user=alexdreyesz&locale=en&mode=daily&theme=aura&hide_border=false&card_width=300&border_radius=7" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=alexdreyesz&locale=en&mode=daily&theme=aura&hide_border=false&card_width=350&border_radius=7" alt="streak graph"  />
   
   <br> <!-- Makaing Space With Break Lines --> 
 
