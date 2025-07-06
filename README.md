@@ -53,7 +53,7 @@
   <br> <!-- Makaing Space With Break Lines --> 
 
   <!-- Coding Languages Graph --> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexdreyesz&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=aura&hide_border=false&custom_title=Coding%20Languages&border_radius=7" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexdreyesz&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=aura&hide_border=false&custom_title=Coding%20Languages&border_radius=7" alt="languages graph"  />
 
 
 
