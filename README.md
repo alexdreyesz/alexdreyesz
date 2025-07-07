@@ -43,7 +43,7 @@
 <!-- Statistics Container --> 
 <div align="center">
   <!-- GitHub Graph --> 
-  <img src="https://github-readme-stats.vercel.app/api?username=alexdreyesz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&custom_title=GitHub%20Stats&card_width=200&border_radius=7" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexdreyesz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&custom_title=GitHub%20Stats&card_width=200&border_radius=7" height="180" alt="stats graph"  />
 
   <img src="images/empty.png" width="24" height="24" />
   
