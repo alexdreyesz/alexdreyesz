@@ -20,7 +20,11 @@
 
   <br> <!-- Makaing Space With Break Lines --> 
   
-  I am passionate about coding, web development & design, open-source, and innovation. Always learning and exploring new technologies. Currently started learning of Machine Learning & AI, with a keen interest in applying these technologies to solve real-world problems. I thrive in collaborative environments and enjoy contributing
+  I am passionate about coding, web development & design, open-source, and innovation. Always learning and exploring new technologies. 
+  
+  Currently started learning of Machine Learning & AI, with a keen interest in applying these technologies to solve real-world problems. 
+  
+  I thrive in collaborative environments and enjoy contributing
   
   </br> <!-- Makaing Space With Break Lines --> 
       
