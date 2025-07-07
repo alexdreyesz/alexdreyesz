@@ -47,13 +47,18 @@
 
   <img src="images/empty.png" width="24" height="24" />
   
-  <!-- Streak Graph --> 
-  <img src="https://streak-stats.demolab.com?user=alexdreyesz&locale=en&mode=daily&theme=aura&hide_border=false&card_width=350&border_radius=7" height="150" alt="streak graph"  />
-  
-  <br> <!-- Makaing Space With Break Lines --> 
-
   <!-- Coding Languages Graph --> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexdreyesz&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=aura&hide_border=false&custom_title=Coding%20Languages&border_radius=7" alt="languages graph" height="150"  />
+
+  
+  <br> <!-- Makaing Space With Break Lines --> 
+  
+  <!-- Streak Graph --> 
+  <img src="https://streak-stats.demolab.com?user=alexdreyesz&locale=en&mode=daily&theme=aura&hide_border=false&card_width=500&border_radius=7" height="150" alt="streak graph"  />
+  
+  
+  
+
 
 
 
