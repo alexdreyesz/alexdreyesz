@@ -55,12 +55,6 @@
   
   <!-- Streak Graph --> 
   <img src="https://streak-stats.demolab.com?user=alexdreyesz&locale=en&mode=daily&theme=aura&hide_border=false&card_width=500&border_radius=7" height="180" alt="streak graph"  />
-  
-  
-  
-
-
-
 
 </div>
 
