@@ -24,7 +24,7 @@
   
   </br> <!-- Makaing Space With Break Lines --> 
       
-   🔭 I’m currently working with **U.S. Space Force** on **ORBIT: AI-Powered IT Automation & Security Solutions** 
+   🔭 I worked in collaboration with the **U.S. Space Force** on **AskPolaris: an AI-Powered IT Automation & Security Solutions** 
    
    🌱 I’m currently learning **LLMs, Generative AI, and RAG pipelines using Hugging Face, as well as Angular, Mapbox, and Three.js.**
   
