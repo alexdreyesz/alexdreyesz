@@ -40,23 +40,26 @@
 
 <br> <!-- Makaing Space With Break Lines --> 
 
+
+
 <!-- Statistics Container --> 
 <div align="center">
+
   <!-- GitHub Graph --> 
-  <img src="https://github-readme-stats.vercel.app/api?username=alexdreyesz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&custom_title=GitHub%20Stats&card_width=200&border_radius=7" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats-six-pearl-31.vercel.app/api?username=alexdreyesz&show_icons=true&include_all_commits=true&count_private=true&theme=aura&custom_title=GitHub%20Stats&border_radius=7" height="180" />
 
   <img src="images/empty.png" width="24" height="24" />
-  
-  <!-- Coding Languages Graph --> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexdreyesz&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=aura&hide_border=false&custom_title=Coding%20Languages&border_radius=7" alt="languages graph" height="180"  />
 
-  
-  <br> <!-- Makaing Space With Break Lines --> 
-  
+  <!-- Coding Languages Graph --> 
+  <img src="https://github-readme-stats-six-pearl-31.vercel.app/api/top-langs?username=alexdreyesz&layout=compact&langs_count=8&theme=aura&border_radius=7&custom_title=Coding%20Languages" height="180" />
+
+  <br>
+
   <!-- Streak Graph --> 
-  <img src="https://streak-stats.demolab.com?user=alexdreyesz&locale=en&mode=daily&theme=aura&hide_border=false&card_width=500&border_radius=7" height="180" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=alexdreyesz&theme=aura&border_radius=7" height="180" />
 
 </div>
+
 
 <br> <!-- Makaing Space With Break Lines --> 
 
