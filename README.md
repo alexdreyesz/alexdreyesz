@@ -34,32 +34,36 @@
 
  </div>
 
+ <br> <!-- Makaing Space With Break Lines --> 
+
 <!------------------------------------------------------------------ Statistics Section ---------------------------------------------------------------------------------> 
 <!-- Statistics Title --> 
-<h2 align="center">⭐Statistics⭐</h2>
+<h2 align="center">⭐ Statistics ⭐</h2>
 
-<br> <!-- Makaing Space With Break Lines --> 
+<table align="center">
+<tr>
+<td>
 
+<!-- LEFT COLUMN: 2 stacked cards -->
+<!-- GitHub Graph --> 
+<img src="https://github-readme-stats-six-pearl-31.vercel.app/api?username=alexdreyesz&show_icons=true&include_all_commits=true&count_private=true&theme=aura&custom_title=GitHub%20Stats&border_radius=7" height="200" />
 
+<br>
 
-<!-- Statistics Container --> 
-<div align="center">
+ <!-- Streak Graph --> 
+<img src="https://streak-stats.demolab.com?user=alexdreyesz&theme=aura&border_radius=7" height="184" />
 
-  <!-- GitHub Graph --> 
-  <img src="https://github-readme-stats-six-pearl-31.vercel.app/api?username=alexdreyesz&show_icons=true&include_all_commits=true&count_private=true&theme=aura&custom_title=GitHub%20Stats&border_radius=7" height="180" />
+</td>
 
-  <img src="images/empty.png" width="24" height="24" />
+<td>
 
-  <!-- Coding Languages Graph --> 
-  <img src="https://github-readme-stats-six-pearl-31.vercel.app/api/top-langs?username=alexdreyesz&layout=compact&langs_count=8&theme=aura&border_radius=7&custom_title=Coding%20Languages" height="180" />
+<!-- RIGHT COLUMN: Tall card -->
+ <!-- Coding Languages Graph --> 
+<img src="https://github-readme-stats-six-pearl-31.vercel.app/api/top-langs?username=alexdreyesz&layout=donut-vertical&langs_count=8&theme=aura&border_radius=7&custom_title=Coding%20Languages" height="400" />
 
-  <br>
-
-  <!-- Streak Graph --> 
-  <img src="https://streak-stats.demolab.com?user=alexdreyesz&theme=aura&border_radius=7" height="180" />
-
-</div>
-
+</td>
+</tr>
+</table>
 
 <br> <!-- Makaing Space With Break Lines --> 
 
@@ -77,6 +81,8 @@
   <a href="https://www.alexdreyesz.com/" target="_blank" style="text-decoration: none; color: inherit;">
     www.alexdreyesz.com
   </a>
+
+  <img width="10"/>
 
   <img src="images/empty.png" width="100" height="100" />
   <img src="images/logo/kingz-white.png" width="45"  height="45" alt="discord logo"  />  
