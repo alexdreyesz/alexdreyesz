@@ -34,6 +34,15 @@
 
  </div>
 
+ <br> <br> <!-- Makaing Space With Break Lines --> 
+
+  <!-- GIF -->
+  <div align="center">
+    <img width="270" height="270" src="https://i.imgflip.com/92c91x.gif" alt="gif1" />
+    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+    <img width="150" height="150" src="https://i.imgflip.com/92ctea.gif" alt="gif2" />
+  </div>
+
  <br> <!-- Makaing Space With Break Lines --> 
 
 <!------------------------------------------------------------------ Statistics Section ---------------------------------------------------------------------------------> 
@@ -397,15 +406,6 @@
    <!-- LinkedIn Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn logo" />
   <img src="images/empty.png" width="12" height="12" />
-</div>
-
-<br> <br> <!-- Makaing Space With Break Lines --> 
-
-<!-- GIF -->
-<div align="center">
-  <img width="270" height="270" src="https://i.imgflip.com/92c91x.gif" alt="gif1" />
-  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-  <img width="150" height="150" src="https://i.imgflip.com/92ctea.gif" alt="gif2" />
 </div>
 
 <br> <!-- Makaing Space With Break Lines --> 
