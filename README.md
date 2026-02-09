@@ -14,13 +14,13 @@
 <!------------------------------------------------------------------ About Me Section -----------------------------------------------------------------------------------> 
 <!-- About Me Title --> 
 <h2 align="center">🙎‍♂️About Me🙎‍♂️</h2>
-<h3 align="center">Hello There 👋! I'm A Computer Science Student At The University Of Central Florida</h3>
+<h3 align="center">Hello There 👋! I'm A Computer Science Graduate From The University of Central Florida</h3>
 
 <div align="left">
 
   <br> <!-- Makaing Space With Break Lines --> 
   
-  I am passionate about coding, web development & design, open-source, and innovation. Always learning and exploring new technologies.  Currently started learning of Machine Learning & AI, with a keen interest in applying these technologies to solve real-world problems. I thrive in collaborative environments and enjoy contributing
+  I am passionate about coding, web development & design, open-source, and innovation. Always learning and exploring new technologies.  Currently started learning about Machine Learning & AI, with a keen interest in applying these technologies to solve real-world problems. I work best in collaborative environments and enjoy helping people
   
   </br> <!-- Makaing Space With Break Lines --> 
       
@@ -28,7 +28,7 @@
    
    🌱 I’m currently learning **LLMs, Generative AI, and RAG pipelines using Hugging Face, as well as Angular, Mapbox, and Three.js.**
   
-  💬 Ask me about **My Passion For Innovation And My Future Plans**
+  💬 Ask me about **My Current Projects and My Future Plans**
   
   ⚡ Fun fact **Capybaras are the largest rodents in the world, but they’re incredibly social and friendly!**
 
