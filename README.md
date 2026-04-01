@@ -40,7 +40,7 @@
   <div align="center">
     <img width="270" height="270" src="https://i.imgflip.com/92c91x.gif" alt="gif1" />
     &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-    <img width="150" height="150" src="https://i.imgflip.com/ao47dz.gif)" alt="gif2" />
+    <img width="150" height="150" src="https://i.imgflip.com/ao47dz.gif" alt="gif2" />
   </div>
 
  <br> <!-- Makaing Space With Break Lines --> 
